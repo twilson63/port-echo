@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/twilson63/.nvm/versions/node/v14.7.0/bin/node /Users/twilson63/.nvm/versions/node/v14.7.0/bin/yarn init
+
+PATH: 
+  /Users/twilson63/.deno/bin:/usr/local/opt/mysql-client@5.7/bin:/usr/local/opt/mysql@5.7/bin:/usr/local/opt/mysql@5.7/bin:/Users/twilson63/Downloads/google-cloud-sdk/bin:/usr/local/opt/mysql-client/bin:/Users/twilson63/.yarn/bin:/Users/twilson63/.config/yarn/global/node_modules/.bin:/Users/twilson63/.nvm/versions/node/v14.7.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.7.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/twilson63/.nvm/versions/node/v14.7.0/lib/node_modules/yarn/lib/cli.js:136216:13)
+      at Interface.emit (events.js:314:20)
+      at Interface._ttyWrite (readline.js:875:16)
+      at ReadStream.onkeypress (readline.js:213:10)
+      at ReadStream.emit (events.js:314:20)
+      at emitKeys (internal/readline/utils.js:335:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1144:36)
+      at ReadStream.emit (events.js:314:20)
+      at addChunk (_stream_readable.js:303:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

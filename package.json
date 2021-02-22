@@ -1,0 +1,16 @@
+{
+  "name": "hyper63-port-echo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "tape": "^5.2.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "node index_test.js"
+  }
+}
